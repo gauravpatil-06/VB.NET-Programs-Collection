@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Personal File\\VB.NET Program\\Book Class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FC04C5-C9CF-489B-98BC-446EFDA7088E}|Book Class\\Book Class.vbproj|c:\\personal file\\vb.net program\\book class\\book class\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E6FC04C5-C9CF-489B-98BC-446EFDA7088E}|Book Class\\Book Class.vbproj|solutionrelative:book class\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Personal File\\VB.NET Program\\Book Class\\Book Class\\Program.vb",
+              "RelativeDocumentMoniker": "Book Class\\Program.vb",
+              "ToolTip": "C:\\Personal File\\VB.NET Program\\Book Class\\Book Class\\Program.vb",
+              "RelativeToolTip": "Book Class\\Program.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-13T07:14:22.455Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

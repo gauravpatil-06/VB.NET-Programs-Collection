@@ -1,0 +1,14 @@
+C:\Personal File\VB.NET Program\Destructor\Destructor\bin\Debug\net8.0\Destructor.exe
+C:\Personal File\VB.NET Program\Destructor\Destructor\bin\Debug\net8.0\Destructor.deps.json
+C:\Personal File\VB.NET Program\Destructor\Destructor\bin\Debug\net8.0\Destructor.runtimeconfig.json
+C:\Personal File\VB.NET Program\Destructor\Destructor\bin\Debug\net8.0\Destructor.dll
+C:\Personal File\VB.NET Program\Destructor\Destructor\bin\Debug\net8.0\Destructor.pdb
+C:\Personal File\VB.NET Program\Destructor\Destructor\obj\Debug\net8.0\Destructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal File\VB.NET Program\Destructor\Destructor\obj\Debug\net8.0\Destructor.AssemblyInfoInputs.cache
+C:\Personal File\VB.NET Program\Destructor\Destructor\obj\Debug\net8.0\Destructor.AssemblyInfo.vb
+C:\Personal File\VB.NET Program\Destructor\Destructor\obj\Debug\net8.0\Destructor.vbproj.CoreCompileInputs.cache
+C:\Personal File\VB.NET Program\Destructor\Destructor\obj\Debug\net8.0\Destructor.dll
+C:\Personal File\VB.NET Program\Destructor\Destructor\obj\Debug\net8.0\refint\Destructor.dll
+C:\Personal File\VB.NET Program\Destructor\Destructor\obj\Debug\net8.0\Destructor.pdb
+C:\Personal File\VB.NET Program\Destructor\Destructor\obj\Debug\net8.0\Destructor.genruntimeconfig.cache
+C:\Personal File\VB.NET Program\Destructor\Destructor\obj\Debug\net8.0\ref\Destructor.dll

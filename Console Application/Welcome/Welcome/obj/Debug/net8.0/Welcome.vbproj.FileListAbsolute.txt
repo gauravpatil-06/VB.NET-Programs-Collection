@@ -1,0 +1,14 @@
+C:\Personal File\VB.NET Program\Welcome\Welcome\bin\Debug\net8.0\Welcome.exe
+C:\Personal File\VB.NET Program\Welcome\Welcome\bin\Debug\net8.0\Welcome.deps.json
+C:\Personal File\VB.NET Program\Welcome\Welcome\bin\Debug\net8.0\Welcome.runtimeconfig.json
+C:\Personal File\VB.NET Program\Welcome\Welcome\bin\Debug\net8.0\Welcome.dll
+C:\Personal File\VB.NET Program\Welcome\Welcome\bin\Debug\net8.0\Welcome.pdb
+C:\Personal File\VB.NET Program\Welcome\Welcome\obj\Debug\net8.0\Welcome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal File\VB.NET Program\Welcome\Welcome\obj\Debug\net8.0\Welcome.AssemblyInfoInputs.cache
+C:\Personal File\VB.NET Program\Welcome\Welcome\obj\Debug\net8.0\Welcome.AssemblyInfo.vb
+C:\Personal File\VB.NET Program\Welcome\Welcome\obj\Debug\net8.0\Welcome.vbproj.CoreCompileInputs.cache
+C:\Personal File\VB.NET Program\Welcome\Welcome\obj\Debug\net8.0\Welcome.dll
+C:\Personal File\VB.NET Program\Welcome\Welcome\obj\Debug\net8.0\refint\Welcome.dll
+C:\Personal File\VB.NET Program\Welcome\Welcome\obj\Debug\net8.0\Welcome.pdb
+C:\Personal File\VB.NET Program\Welcome\Welcome\obj\Debug\net8.0\Welcome.genruntimeconfig.cache
+C:\Personal File\VB.NET Program\Welcome\Welcome\obj\Debug\net8.0\ref\Welcome.dll

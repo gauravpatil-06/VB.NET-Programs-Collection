@@ -1,0 +1,14 @@
+C:\Personal File\VB.NET Program\Palindrome Number\Palindrome Number\bin\Debug\net8.0\Palindrome Number.exe
+C:\Personal File\VB.NET Program\Palindrome Number\Palindrome Number\bin\Debug\net8.0\Palindrome Number.deps.json
+C:\Personal File\VB.NET Program\Palindrome Number\Palindrome Number\bin\Debug\net8.0\Palindrome Number.runtimeconfig.json
+C:\Personal File\VB.NET Program\Palindrome Number\Palindrome Number\bin\Debug\net8.0\Palindrome Number.dll
+C:\Personal File\VB.NET Program\Palindrome Number\Palindrome Number\bin\Debug\net8.0\Palindrome Number.pdb
+C:\Personal File\VB.NET Program\Palindrome Number\Palindrome Number\obj\Debug\net8.0\Palindrome Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal File\VB.NET Program\Palindrome Number\Palindrome Number\obj\Debug\net8.0\Palindrome Number.AssemblyInfoInputs.cache
+C:\Personal File\VB.NET Program\Palindrome Number\Palindrome Number\obj\Debug\net8.0\Palindrome Number.AssemblyInfo.vb
+C:\Personal File\VB.NET Program\Palindrome Number\Palindrome Number\obj\Debug\net8.0\Palindrome Number.vbproj.CoreCompileInputs.cache
+C:\Personal File\VB.NET Program\Palindrome Number\Palindrome Number\obj\Debug\net8.0\Palindrome Number.dll
+C:\Personal File\VB.NET Program\Palindrome Number\Palindrome Number\obj\Debug\net8.0\refint\Palindrome Number.dll
+C:\Personal File\VB.NET Program\Palindrome Number\Palindrome Number\obj\Debug\net8.0\Palindrome Number.pdb
+C:\Personal File\VB.NET Program\Palindrome Number\Palindrome Number\obj\Debug\net8.0\Palindrome Number.genruntimeconfig.cache
+C:\Personal File\VB.NET Program\Palindrome Number\Palindrome Number\obj\Debug\net8.0\ref\Palindrome Number.dll

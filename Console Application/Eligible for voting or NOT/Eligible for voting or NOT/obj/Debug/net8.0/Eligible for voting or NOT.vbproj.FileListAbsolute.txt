@@ -1,0 +1,14 @@
+C:\Personal File\VB.NET Program\Eligible for voting or NOT\Eligible for voting or NOT\bin\Debug\net8.0\Eligible for voting or NOT.exe
+C:\Personal File\VB.NET Program\Eligible for voting or NOT\Eligible for voting or NOT\bin\Debug\net8.0\Eligible for voting or NOT.deps.json
+C:\Personal File\VB.NET Program\Eligible for voting or NOT\Eligible for voting or NOT\bin\Debug\net8.0\Eligible for voting or NOT.runtimeconfig.json
+C:\Personal File\VB.NET Program\Eligible for voting or NOT\Eligible for voting or NOT\bin\Debug\net8.0\Eligible for voting or NOT.dll
+C:\Personal File\VB.NET Program\Eligible for voting or NOT\Eligible for voting or NOT\bin\Debug\net8.0\Eligible for voting or NOT.pdb
+C:\Personal File\VB.NET Program\Eligible for voting or NOT\Eligible for voting or NOT\obj\Debug\net8.0\Eligible for voting or NOT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal File\VB.NET Program\Eligible for voting or NOT\Eligible for voting or NOT\obj\Debug\net8.0\Eligible for voting or NOT.AssemblyInfoInputs.cache
+C:\Personal File\VB.NET Program\Eligible for voting or NOT\Eligible for voting or NOT\obj\Debug\net8.0\Eligible for voting or NOT.AssemblyInfo.vb
+C:\Personal File\VB.NET Program\Eligible for voting or NOT\Eligible for voting or NOT\obj\Debug\net8.0\Eligible for voting or NOT.vbproj.CoreCompileInputs.cache
+C:\Personal File\VB.NET Program\Eligible for voting or NOT\Eligible for voting or NOT\obj\Debug\net8.0\Eligible for voting or NOT.dll
+C:\Personal File\VB.NET Program\Eligible for voting or NOT\Eligible for voting or NOT\obj\Debug\net8.0\refint\Eligible for voting or NOT.dll
+C:\Personal File\VB.NET Program\Eligible for voting or NOT\Eligible for voting or NOT\obj\Debug\net8.0\Eligible for voting or NOT.pdb
+C:\Personal File\VB.NET Program\Eligible for voting or NOT\Eligible for voting or NOT\obj\Debug\net8.0\Eligible for voting or NOT.genruntimeconfig.cache
+C:\Personal File\VB.NET Program\Eligible for voting or NOT\Eligible for voting or NOT\obj\Debug\net8.0\ref\Eligible for voting or NOT.dll

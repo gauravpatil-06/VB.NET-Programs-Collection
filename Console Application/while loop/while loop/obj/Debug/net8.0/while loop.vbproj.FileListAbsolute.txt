@@ -1,0 +1,14 @@
+C:\Personal File\VB.NET Program\while loop\while loop\bin\Debug\net8.0\while loop.exe
+C:\Personal File\VB.NET Program\while loop\while loop\bin\Debug\net8.0\while loop.deps.json
+C:\Personal File\VB.NET Program\while loop\while loop\bin\Debug\net8.0\while loop.runtimeconfig.json
+C:\Personal File\VB.NET Program\while loop\while loop\bin\Debug\net8.0\while loop.dll
+C:\Personal File\VB.NET Program\while loop\while loop\bin\Debug\net8.0\while loop.pdb
+C:\Personal File\VB.NET Program\while loop\while loop\obj\Debug\net8.0\while loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal File\VB.NET Program\while loop\while loop\obj\Debug\net8.0\while loop.AssemblyInfoInputs.cache
+C:\Personal File\VB.NET Program\while loop\while loop\obj\Debug\net8.0\while loop.AssemblyInfo.vb
+C:\Personal File\VB.NET Program\while loop\while loop\obj\Debug\net8.0\while loop.vbproj.CoreCompileInputs.cache
+C:\Personal File\VB.NET Program\while loop\while loop\obj\Debug\net8.0\while loop.dll
+C:\Personal File\VB.NET Program\while loop\while loop\obj\Debug\net8.0\refint\while loop.dll
+C:\Personal File\VB.NET Program\while loop\while loop\obj\Debug\net8.0\while loop.pdb
+C:\Personal File\VB.NET Program\while loop\while loop\obj\Debug\net8.0\while loop.genruntimeconfig.cache
+C:\Personal File\VB.NET Program\while loop\while loop\obj\Debug\net8.0\ref\while loop.dll

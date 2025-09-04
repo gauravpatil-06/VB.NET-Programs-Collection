@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Personal File\\VB.NET Program\\Windows Application\\Login Page\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13BED20F-ECE8-414E-AB06-6819AF5431E0}|Login Page\\Login Page.vbproj|c:\\personal file\\vb.net program\\windows application\\login page\\login page\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{13BED20F-ECE8-414E-AB06-6819AF5431E0}|Login Page\\Login Page.vbproj|solutionrelative:login page\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13BED20F-ECE8-414E-AB06-6819AF5431E0}|Login Page\\Login Page.vbproj|C:\\Personal File\\VB.NET Program\\Windows Application\\Login Page\\login page\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{13BED20F-ECE8-414E-AB06-6819AF5431E0}|Login Page\\Login Page.vbproj|solutionrelative:login page\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Personal File\\VB.NET Program\\Windows Application\\Login Page\\Login Page\\Form1.vb",
+              "RelativeDocumentMoniker": "Login Page\\Form1.vb",
+              "ToolTip": "C:\\Personal File\\VB.NET Program\\Windows Application\\Login Page\\Login Page\\Form1.vb",
+              "RelativeToolTip": "Login Page\\Form1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAApwAIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-12T11:38:58.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Personal File\\VB.NET Program\\Windows Application\\Login Page\\Login Page\\Form1.vb",
+              "RelativeDocumentMoniker": "Login Page\\Form1.vb",
+              "ToolTip": "C:\\Personal File\\VB.NET Program\\Windows Application\\Login Page\\Login Page\\Form1.vb [Design]",
+              "RelativeToolTip": "Login Page\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-12T11:35:43.428Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

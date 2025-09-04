@@ -1,0 +1,14 @@
+C:\Personal File\VB.NET Program\Divide by zero Exception\Divide by zero Exception\bin\Debug\net8.0\Divide by zero Exception.exe
+C:\Personal File\VB.NET Program\Divide by zero Exception\Divide by zero Exception\bin\Debug\net8.0\Divide by zero Exception.deps.json
+C:\Personal File\VB.NET Program\Divide by zero Exception\Divide by zero Exception\bin\Debug\net8.0\Divide by zero Exception.runtimeconfig.json
+C:\Personal File\VB.NET Program\Divide by zero Exception\Divide by zero Exception\bin\Debug\net8.0\Divide by zero Exception.dll
+C:\Personal File\VB.NET Program\Divide by zero Exception\Divide by zero Exception\bin\Debug\net8.0\Divide by zero Exception.pdb
+C:\Personal File\VB.NET Program\Divide by zero Exception\Divide by zero Exception\obj\Debug\net8.0\Divide by zero Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal File\VB.NET Program\Divide by zero Exception\Divide by zero Exception\obj\Debug\net8.0\Divide by zero Exception.AssemblyInfoInputs.cache
+C:\Personal File\VB.NET Program\Divide by zero Exception\Divide by zero Exception\obj\Debug\net8.0\Divide by zero Exception.AssemblyInfo.vb
+C:\Personal File\VB.NET Program\Divide by zero Exception\Divide by zero Exception\obj\Debug\net8.0\Divide by zero Exception.vbproj.CoreCompileInputs.cache
+C:\Personal File\VB.NET Program\Divide by zero Exception\Divide by zero Exception\obj\Debug\net8.0\Divide by zero Exception.dll
+C:\Personal File\VB.NET Program\Divide by zero Exception\Divide by zero Exception\obj\Debug\net8.0\refint\Divide by zero Exception.dll
+C:\Personal File\VB.NET Program\Divide by zero Exception\Divide by zero Exception\obj\Debug\net8.0\Divide by zero Exception.pdb
+C:\Personal File\VB.NET Program\Divide by zero Exception\Divide by zero Exception\obj\Debug\net8.0\Divide by zero Exception.genruntimeconfig.cache
+C:\Personal File\VB.NET Program\Divide by zero Exception\Divide by zero Exception\obj\Debug\net8.0\ref\Divide by zero Exception.dll

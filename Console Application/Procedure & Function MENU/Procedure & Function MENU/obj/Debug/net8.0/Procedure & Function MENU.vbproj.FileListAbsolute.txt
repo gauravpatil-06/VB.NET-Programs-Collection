@@ -1,0 +1,14 @@
+C:\Personal File\VB.NET Program\Procedure & Function MENU\Procedure & Function MENU\obj\Debug\net8.0\Procedure & Function MENU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal File\VB.NET Program\Procedure & Function MENU\Procedure & Function MENU\obj\Debug\net8.0\Procedure & Function MENU.AssemblyInfoInputs.cache
+C:\Personal File\VB.NET Program\Procedure & Function MENU\Procedure & Function MENU\obj\Debug\net8.0\Procedure & Function MENU.AssemblyInfo.vb
+C:\Personal File\VB.NET Program\Procedure & Function MENU\Procedure & Function MENU\obj\Debug\net8.0\Procedure & Function MENU.vbproj.CoreCompileInputs.cache
+C:\Personal File\VB.NET Program\Procedure & Function MENU\Procedure & Function MENU\bin\Debug\net8.0\Procedure & Function MENU.exe
+C:\Personal File\VB.NET Program\Procedure & Function MENU\Procedure & Function MENU\bin\Debug\net8.0\Procedure & Function MENU.deps.json
+C:\Personal File\VB.NET Program\Procedure & Function MENU\Procedure & Function MENU\bin\Debug\net8.0\Procedure & Function MENU.runtimeconfig.json
+C:\Personal File\VB.NET Program\Procedure & Function MENU\Procedure & Function MENU\bin\Debug\net8.0\Procedure & Function MENU.dll
+C:\Personal File\VB.NET Program\Procedure & Function MENU\Procedure & Function MENU\bin\Debug\net8.0\Procedure & Function MENU.pdb
+C:\Personal File\VB.NET Program\Procedure & Function MENU\Procedure & Function MENU\obj\Debug\net8.0\Procedure & Function MENU.dll
+C:\Personal File\VB.NET Program\Procedure & Function MENU\Procedure & Function MENU\obj\Debug\net8.0\refint\Procedure & Function MENU.dll
+C:\Personal File\VB.NET Program\Procedure & Function MENU\Procedure & Function MENU\obj\Debug\net8.0\Procedure & Function MENU.pdb
+C:\Personal File\VB.NET Program\Procedure & Function MENU\Procedure & Function MENU\obj\Debug\net8.0\Procedure & Function MENU.genruntimeconfig.cache
+C:\Personal File\VB.NET Program\Procedure & Function MENU\Procedure & Function MENU\obj\Debug\net8.0\ref\Procedure & Function MENU.dll

@@ -1,0 +1,14 @@
+C:\Personal File\VB.NET Program\Substraction\Substraction\bin\Debug\net8.0\Substraction.exe
+C:\Personal File\VB.NET Program\Substraction\Substraction\bin\Debug\net8.0\Substraction.deps.json
+C:\Personal File\VB.NET Program\Substraction\Substraction\bin\Debug\net8.0\Substraction.runtimeconfig.json
+C:\Personal File\VB.NET Program\Substraction\Substraction\bin\Debug\net8.0\Substraction.dll
+C:\Personal File\VB.NET Program\Substraction\Substraction\bin\Debug\net8.0\Substraction.pdb
+C:\Personal File\VB.NET Program\Substraction\Substraction\obj\Debug\net8.0\Substraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal File\VB.NET Program\Substraction\Substraction\obj\Debug\net8.0\Substraction.AssemblyInfoInputs.cache
+C:\Personal File\VB.NET Program\Substraction\Substraction\obj\Debug\net8.0\Substraction.AssemblyInfo.vb
+C:\Personal File\VB.NET Program\Substraction\Substraction\obj\Debug\net8.0\Substraction.vbproj.CoreCompileInputs.cache
+C:\Personal File\VB.NET Program\Substraction\Substraction\obj\Debug\net8.0\Substraction.dll
+C:\Personal File\VB.NET Program\Substraction\Substraction\obj\Debug\net8.0\refint\Substraction.dll
+C:\Personal File\VB.NET Program\Substraction\Substraction\obj\Debug\net8.0\Substraction.pdb
+C:\Personal File\VB.NET Program\Substraction\Substraction\obj\Debug\net8.0\Substraction.genruntimeconfig.cache
+C:\Personal File\VB.NET Program\Substraction\Substraction\obj\Debug\net8.0\ref\Substraction.dll

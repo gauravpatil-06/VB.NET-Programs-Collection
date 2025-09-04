@@ -1,0 +1,14 @@
+C:\Personal File\VB.NET Program\Reverse Number\Reverse Number\obj\Debug\net8.0\Reverse Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal File\VB.NET Program\Reverse Number\Reverse Number\obj\Debug\net8.0\Reverse Number.AssemblyInfoInputs.cache
+C:\Personal File\VB.NET Program\Reverse Number\Reverse Number\obj\Debug\net8.0\Reverse Number.AssemblyInfo.vb
+C:\Personal File\VB.NET Program\Reverse Number\Reverse Number\obj\Debug\net8.0\Reverse Number.vbproj.CoreCompileInputs.cache
+C:\Personal File\VB.NET Program\Reverse Number\Reverse Number\bin\Debug\net8.0\Reverse Number.exe
+C:\Personal File\VB.NET Program\Reverse Number\Reverse Number\bin\Debug\net8.0\Reverse Number.deps.json
+C:\Personal File\VB.NET Program\Reverse Number\Reverse Number\bin\Debug\net8.0\Reverse Number.runtimeconfig.json
+C:\Personal File\VB.NET Program\Reverse Number\Reverse Number\bin\Debug\net8.0\Reverse Number.dll
+C:\Personal File\VB.NET Program\Reverse Number\Reverse Number\bin\Debug\net8.0\Reverse Number.pdb
+C:\Personal File\VB.NET Program\Reverse Number\Reverse Number\obj\Debug\net8.0\Reverse Number.dll
+C:\Personal File\VB.NET Program\Reverse Number\Reverse Number\obj\Debug\net8.0\refint\Reverse Number.dll
+C:\Personal File\VB.NET Program\Reverse Number\Reverse Number\obj\Debug\net8.0\Reverse Number.pdb
+C:\Personal File\VB.NET Program\Reverse Number\Reverse Number\obj\Debug\net8.0\Reverse Number.genruntimeconfig.cache
+C:\Personal File\VB.NET Program\Reverse Number\Reverse Number\obj\Debug\net8.0\ref\Reverse Number.dll

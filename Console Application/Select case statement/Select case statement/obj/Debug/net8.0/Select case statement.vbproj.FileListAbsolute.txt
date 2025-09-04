@@ -1,0 +1,14 @@
+C:\Personal File\VB.NET Program\Select case statement\Select case statement\bin\Debug\net8.0\Select case statement.exe
+C:\Personal File\VB.NET Program\Select case statement\Select case statement\bin\Debug\net8.0\Select case statement.deps.json
+C:\Personal File\VB.NET Program\Select case statement\Select case statement\bin\Debug\net8.0\Select case statement.runtimeconfig.json
+C:\Personal File\VB.NET Program\Select case statement\Select case statement\bin\Debug\net8.0\Select case statement.dll
+C:\Personal File\VB.NET Program\Select case statement\Select case statement\bin\Debug\net8.0\Select case statement.pdb
+C:\Personal File\VB.NET Program\Select case statement\Select case statement\obj\Debug\net8.0\Select case statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal File\VB.NET Program\Select case statement\Select case statement\obj\Debug\net8.0\Select case statement.AssemblyInfoInputs.cache
+C:\Personal File\VB.NET Program\Select case statement\Select case statement\obj\Debug\net8.0\Select case statement.AssemblyInfo.vb
+C:\Personal File\VB.NET Program\Select case statement\Select case statement\obj\Debug\net8.0\Select case statement.vbproj.CoreCompileInputs.cache
+C:\Personal File\VB.NET Program\Select case statement\Select case statement\obj\Debug\net8.0\Select case statement.dll
+C:\Personal File\VB.NET Program\Select case statement\Select case statement\obj\Debug\net8.0\refint\Select case statement.dll
+C:\Personal File\VB.NET Program\Select case statement\Select case statement\obj\Debug\net8.0\Select case statement.pdb
+C:\Personal File\VB.NET Program\Select case statement\Select case statement\obj\Debug\net8.0\Select case statement.genruntimeconfig.cache
+C:\Personal File\VB.NET Program\Select case statement\Select case statement\obj\Debug\net8.0\ref\Select case statement.dll

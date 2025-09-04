@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Personal File\\VB.NET Program\\Procedure \u0026 Function\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{303E88AA-1AF6-4126-9187-6C77D0655952}|Procedure \u0026 Function\\Procedure \u0026 Function.vbproj|c:\\personal file\\vb.net program\\procedure \u0026 function\\procedure \u0026 function\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{303E88AA-1AF6-4126-9187-6C77D0655952}|Procedure \u0026 Function\\Procedure \u0026 Function.vbproj|solutionrelative:procedure \u0026 function\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Personal File\\VB.NET Program\\Procedure \u0026 Function\\Procedure \u0026 Function\\Program.vb",
+              "RelativeDocumentMoniker": "Procedure \u0026 Function\\Program.vb",
+              "ToolTip": "C:\\Personal File\\VB.NET Program\\Procedure \u0026 Function\\Procedure \u0026 Function\\Program.vb",
+              "RelativeToolTip": "Procedure \u0026 Function\\Program.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-13T06:44:46.519Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

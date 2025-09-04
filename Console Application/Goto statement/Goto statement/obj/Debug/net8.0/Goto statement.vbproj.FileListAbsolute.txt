@@ -1,0 +1,14 @@
+C:\Personal File\VB.NET Program\Goto statement\Goto statement\bin\Debug\net8.0\Goto statement.exe
+C:\Personal File\VB.NET Program\Goto statement\Goto statement\bin\Debug\net8.0\Goto statement.deps.json
+C:\Personal File\VB.NET Program\Goto statement\Goto statement\bin\Debug\net8.0\Goto statement.runtimeconfig.json
+C:\Personal File\VB.NET Program\Goto statement\Goto statement\bin\Debug\net8.0\Goto statement.dll
+C:\Personal File\VB.NET Program\Goto statement\Goto statement\bin\Debug\net8.0\Goto statement.pdb
+C:\Personal File\VB.NET Program\Goto statement\Goto statement\obj\Debug\net8.0\Goto statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal File\VB.NET Program\Goto statement\Goto statement\obj\Debug\net8.0\Goto statement.AssemblyInfoInputs.cache
+C:\Personal File\VB.NET Program\Goto statement\Goto statement\obj\Debug\net8.0\Goto statement.AssemblyInfo.vb
+C:\Personal File\VB.NET Program\Goto statement\Goto statement\obj\Debug\net8.0\Goto statement.vbproj.CoreCompileInputs.cache
+C:\Personal File\VB.NET Program\Goto statement\Goto statement\obj\Debug\net8.0\Goto statement.dll
+C:\Personal File\VB.NET Program\Goto statement\Goto statement\obj\Debug\net8.0\refint\Goto statement.dll
+C:\Personal File\VB.NET Program\Goto statement\Goto statement\obj\Debug\net8.0\Goto statement.pdb
+C:\Personal File\VB.NET Program\Goto statement\Goto statement\obj\Debug\net8.0\Goto statement.genruntimeconfig.cache
+C:\Personal File\VB.NET Program\Goto statement\Goto statement\obj\Debug\net8.0\ref\Goto statement.dll

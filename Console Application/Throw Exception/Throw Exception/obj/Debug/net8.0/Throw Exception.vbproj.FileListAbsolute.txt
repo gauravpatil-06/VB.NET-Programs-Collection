@@ -1,0 +1,14 @@
+C:\Personal File\VB.NET Program\Throw Exception\Throw Exception\bin\Debug\net8.0\Throw Exception.exe
+C:\Personal File\VB.NET Program\Throw Exception\Throw Exception\bin\Debug\net8.0\Throw Exception.deps.json
+C:\Personal File\VB.NET Program\Throw Exception\Throw Exception\bin\Debug\net8.0\Throw Exception.runtimeconfig.json
+C:\Personal File\VB.NET Program\Throw Exception\Throw Exception\bin\Debug\net8.0\Throw Exception.dll
+C:\Personal File\VB.NET Program\Throw Exception\Throw Exception\bin\Debug\net8.0\Throw Exception.pdb
+C:\Personal File\VB.NET Program\Throw Exception\Throw Exception\obj\Debug\net8.0\Throw Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal File\VB.NET Program\Throw Exception\Throw Exception\obj\Debug\net8.0\Throw Exception.AssemblyInfoInputs.cache
+C:\Personal File\VB.NET Program\Throw Exception\Throw Exception\obj\Debug\net8.0\Throw Exception.AssemblyInfo.vb
+C:\Personal File\VB.NET Program\Throw Exception\Throw Exception\obj\Debug\net8.0\Throw Exception.vbproj.CoreCompileInputs.cache
+C:\Personal File\VB.NET Program\Throw Exception\Throw Exception\obj\Debug\net8.0\Throw Exception.dll
+C:\Personal File\VB.NET Program\Throw Exception\Throw Exception\obj\Debug\net8.0\refint\Throw Exception.dll
+C:\Personal File\VB.NET Program\Throw Exception\Throw Exception\obj\Debug\net8.0\Throw Exception.pdb
+C:\Personal File\VB.NET Program\Throw Exception\Throw Exception\obj\Debug\net8.0\Throw Exception.genruntimeconfig.cache
+C:\Personal File\VB.NET Program\Throw Exception\Throw Exception\obj\Debug\net8.0\ref\Throw Exception.dll

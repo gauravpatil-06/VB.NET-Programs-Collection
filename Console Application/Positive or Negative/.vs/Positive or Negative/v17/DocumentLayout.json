@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Personal File\\VB.NET Program\\Positive or Negative\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97F408F4-CE2C-40C1-9607-71D51340FC4E}|Positive or Negative\\Positive or Negative.vbproj|c:\\personal file\\vb.net program\\positive or negative\\positive or negative\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{97F408F4-CE2C-40C1-9607-71D51340FC4E}|Positive or Negative\\Positive or Negative.vbproj|solutionrelative:positive or negative\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Personal File\\VB.NET Program\\Positive or Negative\\Positive or Negative\\Program.vb",
+              "RelativeDocumentMoniker": "Positive or Negative\\Program.vb",
+              "ToolTip": "C:\\Personal File\\VB.NET Program\\Positive or Negative\\Positive or Negative\\Program.vb",
+              "RelativeToolTip": "Positive or Negative\\Program.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-12T11:11:54.296Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Personal File\VB.NET Program\Shadowing\Shadowing\bin\Debug\net8.0\Shadowing.exe
+C:\Personal File\VB.NET Program\Shadowing\Shadowing\bin\Debug\net8.0\Shadowing.deps.json
+C:\Personal File\VB.NET Program\Shadowing\Shadowing\bin\Debug\net8.0\Shadowing.runtimeconfig.json
+C:\Personal File\VB.NET Program\Shadowing\Shadowing\bin\Debug\net8.0\Shadowing.dll
+C:\Personal File\VB.NET Program\Shadowing\Shadowing\bin\Debug\net8.0\Shadowing.pdb
+C:\Personal File\VB.NET Program\Shadowing\Shadowing\obj\Debug\net8.0\Shadowing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal File\VB.NET Program\Shadowing\Shadowing\obj\Debug\net8.0\Shadowing.AssemblyInfoInputs.cache
+C:\Personal File\VB.NET Program\Shadowing\Shadowing\obj\Debug\net8.0\Shadowing.AssemblyInfo.vb
+C:\Personal File\VB.NET Program\Shadowing\Shadowing\obj\Debug\net8.0\Shadowing.vbproj.CoreCompileInputs.cache
+C:\Personal File\VB.NET Program\Shadowing\Shadowing\obj\Debug\net8.0\Shadowing.dll
+C:\Personal File\VB.NET Program\Shadowing\Shadowing\obj\Debug\net8.0\refint\Shadowing.dll
+C:\Personal File\VB.NET Program\Shadowing\Shadowing\obj\Debug\net8.0\Shadowing.pdb
+C:\Personal File\VB.NET Program\Shadowing\Shadowing\obj\Debug\net8.0\Shadowing.genruntimeconfig.cache
+C:\Personal File\VB.NET Program\Shadowing\Shadowing\obj\Debug\net8.0\ref\Shadowing.dll

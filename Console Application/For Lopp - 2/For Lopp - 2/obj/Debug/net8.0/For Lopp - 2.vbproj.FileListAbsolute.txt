@@ -1,0 +1,14 @@
+C:\Personal File\VB.NET Program\For Lopp - 2\For Lopp - 2\bin\Debug\net8.0\For Lopp - 2.exe
+C:\Personal File\VB.NET Program\For Lopp - 2\For Lopp - 2\bin\Debug\net8.0\For Lopp - 2.deps.json
+C:\Personal File\VB.NET Program\For Lopp - 2\For Lopp - 2\bin\Debug\net8.0\For Lopp - 2.runtimeconfig.json
+C:\Personal File\VB.NET Program\For Lopp - 2\For Lopp - 2\bin\Debug\net8.0\For Lopp - 2.dll
+C:\Personal File\VB.NET Program\For Lopp - 2\For Lopp - 2\bin\Debug\net8.0\For Lopp - 2.pdb
+C:\Personal File\VB.NET Program\For Lopp - 2\For Lopp - 2\obj\Debug\net8.0\For Lopp - 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal File\VB.NET Program\For Lopp - 2\For Lopp - 2\obj\Debug\net8.0\For Lopp - 2.AssemblyInfoInputs.cache
+C:\Personal File\VB.NET Program\For Lopp - 2\For Lopp - 2\obj\Debug\net8.0\For Lopp - 2.AssemblyInfo.vb
+C:\Personal File\VB.NET Program\For Lopp - 2\For Lopp - 2\obj\Debug\net8.0\For Lopp - 2.vbproj.CoreCompileInputs.cache
+C:\Personal File\VB.NET Program\For Lopp - 2\For Lopp - 2\obj\Debug\net8.0\For Lopp - 2.dll
+C:\Personal File\VB.NET Program\For Lopp - 2\For Lopp - 2\obj\Debug\net8.0\refint\For Lopp - 2.dll
+C:\Personal File\VB.NET Program\For Lopp - 2\For Lopp - 2\obj\Debug\net8.0\For Lopp - 2.pdb
+C:\Personal File\VB.NET Program\For Lopp - 2\For Lopp - 2\obj\Debug\net8.0\For Lopp - 2.genruntimeconfig.cache
+C:\Personal File\VB.NET Program\For Lopp - 2\For Lopp - 2\obj\Debug\net8.0\ref\For Lopp - 2.dll

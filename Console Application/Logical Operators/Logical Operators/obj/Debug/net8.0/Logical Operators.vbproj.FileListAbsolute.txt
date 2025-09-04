@@ -1,0 +1,14 @@
+C:\Personal File\VB.NET Program\Logical Operators\Logical Operators\bin\Debug\net8.0\Logical Operators.exe
+C:\Personal File\VB.NET Program\Logical Operators\Logical Operators\bin\Debug\net8.0\Logical Operators.deps.json
+C:\Personal File\VB.NET Program\Logical Operators\Logical Operators\bin\Debug\net8.0\Logical Operators.runtimeconfig.json
+C:\Personal File\VB.NET Program\Logical Operators\Logical Operators\bin\Debug\net8.0\Logical Operators.dll
+C:\Personal File\VB.NET Program\Logical Operators\Logical Operators\bin\Debug\net8.0\Logical Operators.pdb
+C:\Personal File\VB.NET Program\Logical Operators\Logical Operators\obj\Debug\net8.0\Logical Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal File\VB.NET Program\Logical Operators\Logical Operators\obj\Debug\net8.0\Logical Operators.AssemblyInfoInputs.cache
+C:\Personal File\VB.NET Program\Logical Operators\Logical Operators\obj\Debug\net8.0\Logical Operators.AssemblyInfo.vb
+C:\Personal File\VB.NET Program\Logical Operators\Logical Operators\obj\Debug\net8.0\Logical Operators.vbproj.CoreCompileInputs.cache
+C:\Personal File\VB.NET Program\Logical Operators\Logical Operators\obj\Debug\net8.0\Logical Operators.dll
+C:\Personal File\VB.NET Program\Logical Operators\Logical Operators\obj\Debug\net8.0\refint\Logical Operators.dll
+C:\Personal File\VB.NET Program\Logical Operators\Logical Operators\obj\Debug\net8.0\Logical Operators.pdb
+C:\Personal File\VB.NET Program\Logical Operators\Logical Operators\obj\Debug\net8.0\Logical Operators.genruntimeconfig.cache
+C:\Personal File\VB.NET Program\Logical Operators\Logical Operators\obj\Debug\net8.0\ref\Logical Operators.dll

@@ -1,0 +1,14 @@
+C:\Personal File\VB.NET Program\Division\Division\bin\Debug\net8.0\Division.exe
+C:\Personal File\VB.NET Program\Division\Division\bin\Debug\net8.0\Division.deps.json
+C:\Personal File\VB.NET Program\Division\Division\bin\Debug\net8.0\Division.runtimeconfig.json
+C:\Personal File\VB.NET Program\Division\Division\bin\Debug\net8.0\Division.dll
+C:\Personal File\VB.NET Program\Division\Division\bin\Debug\net8.0\Division.pdb
+C:\Personal File\VB.NET Program\Division\Division\obj\Debug\net8.0\Division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal File\VB.NET Program\Division\Division\obj\Debug\net8.0\Division.AssemblyInfoInputs.cache
+C:\Personal File\VB.NET Program\Division\Division\obj\Debug\net8.0\Division.AssemblyInfo.vb
+C:\Personal File\VB.NET Program\Division\Division\obj\Debug\net8.0\Division.vbproj.CoreCompileInputs.cache
+C:\Personal File\VB.NET Program\Division\Division\obj\Debug\net8.0\Division.dll
+C:\Personal File\VB.NET Program\Division\Division\obj\Debug\net8.0\refint\Division.dll
+C:\Personal File\VB.NET Program\Division\Division\obj\Debug\net8.0\Division.pdb
+C:\Personal File\VB.NET Program\Division\Division\obj\Debug\net8.0\Division.genruntimeconfig.cache
+C:\Personal File\VB.NET Program\Division\Division\obj\Debug\net8.0\ref\Division.dll

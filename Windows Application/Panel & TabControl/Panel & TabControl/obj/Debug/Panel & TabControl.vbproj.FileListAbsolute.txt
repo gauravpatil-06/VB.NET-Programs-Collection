@@ -1,0 +1,12 @@
+C:\Personal File\VB.NET Program\Windows Application\Panel & TabControl\Panel & TabControl\bin\Debug\Panel & TabControl.exe.config
+C:\Personal File\VB.NET Program\Windows Application\Panel & TabControl\Panel & TabControl\bin\Debug\Panel & TabControl.exe
+C:\Personal File\VB.NET Program\Windows Application\Panel & TabControl\Panel & TabControl\bin\Debug\Panel & TabControl.pdb
+C:\Personal File\VB.NET Program\Windows Application\Panel & TabControl\Panel & TabControl\bin\Debug\Panel & TabControl.xml
+C:\Personal File\VB.NET Program\Windows Application\Panel & TabControl\Panel & TabControl\obj\Debug\Panel & TabControl.vbproj.AssemblyReference.cache
+C:\Personal File\VB.NET Program\Windows Application\Panel & TabControl\Panel & TabControl\obj\Debug\Panel___TabControl.Form1.resources
+C:\Personal File\VB.NET Program\Windows Application\Panel & TabControl\Panel & TabControl\obj\Debug\Panel___TabControl.Resources.resources
+C:\Personal File\VB.NET Program\Windows Application\Panel & TabControl\Panel & TabControl\obj\Debug\Panel & TabControl.vbproj.GenerateResource.cache
+C:\Personal File\VB.NET Program\Windows Application\Panel & TabControl\Panel & TabControl\obj\Debug\Panel & TabControl.vbproj.CoreCompileInputs.cache
+C:\Personal File\VB.NET Program\Windows Application\Panel & TabControl\Panel & TabControl\obj\Debug\Panel & TabControl.exe
+C:\Personal File\VB.NET Program\Windows Application\Panel & TabControl\Panel & TabControl\obj\Debug\Panel & TabControl.xml
+C:\Personal File\VB.NET Program\Windows Application\Panel & TabControl\Panel & TabControl\obj\Debug\Panel & TabControl.pdb

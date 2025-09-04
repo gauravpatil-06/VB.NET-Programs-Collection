@@ -1,0 +1,12 @@
+C:\Personal File\VB.NET Program\Windows Application\Gaurav Photos\Gaurav Photos\bin\Debug\Gaurav Photos.exe.config
+C:\Personal File\VB.NET Program\Windows Application\Gaurav Photos\Gaurav Photos\bin\Debug\Gaurav Photos.exe
+C:\Personal File\VB.NET Program\Windows Application\Gaurav Photos\Gaurav Photos\bin\Debug\Gaurav Photos.pdb
+C:\Personal File\VB.NET Program\Windows Application\Gaurav Photos\Gaurav Photos\bin\Debug\Gaurav Photos.xml
+C:\Personal File\VB.NET Program\Windows Application\Gaurav Photos\Gaurav Photos\obj\Debug\Gaurav Photos.vbproj.AssemblyReference.cache
+C:\Personal File\VB.NET Program\Windows Application\Gaurav Photos\Gaurav Photos\obj\Debug\Gaurav_Photos.Form1.resources
+C:\Personal File\VB.NET Program\Windows Application\Gaurav Photos\Gaurav Photos\obj\Debug\Gaurav_Photos.Resources.resources
+C:\Personal File\VB.NET Program\Windows Application\Gaurav Photos\Gaurav Photos\obj\Debug\Gaurav Photos.vbproj.GenerateResource.cache
+C:\Personal File\VB.NET Program\Windows Application\Gaurav Photos\Gaurav Photos\obj\Debug\Gaurav Photos.vbproj.CoreCompileInputs.cache
+C:\Personal File\VB.NET Program\Windows Application\Gaurav Photos\Gaurav Photos\obj\Debug\Gaurav Photos.exe
+C:\Personal File\VB.NET Program\Windows Application\Gaurav Photos\Gaurav Photos\obj\Debug\Gaurav Photos.xml
+C:\Personal File\VB.NET Program\Windows Application\Gaurav Photos\Gaurav Photos\obj\Debug\Gaurav Photos.pdb

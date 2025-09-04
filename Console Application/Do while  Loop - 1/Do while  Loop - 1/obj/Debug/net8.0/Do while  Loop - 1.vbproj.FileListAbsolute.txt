@@ -1,0 +1,14 @@
+C:\Personal File\VB.NET Program\Do while  Loop - 1\Do while  Loop - 1\bin\Debug\net8.0\Do while  Loop - 1.exe
+C:\Personal File\VB.NET Program\Do while  Loop - 1\Do while  Loop - 1\bin\Debug\net8.0\Do while  Loop - 1.deps.json
+C:\Personal File\VB.NET Program\Do while  Loop - 1\Do while  Loop - 1\bin\Debug\net8.0\Do while  Loop - 1.runtimeconfig.json
+C:\Personal File\VB.NET Program\Do while  Loop - 1\Do while  Loop - 1\bin\Debug\net8.0\Do while  Loop - 1.dll
+C:\Personal File\VB.NET Program\Do while  Loop - 1\Do while  Loop - 1\bin\Debug\net8.0\Do while  Loop - 1.pdb
+C:\Personal File\VB.NET Program\Do while  Loop - 1\Do while  Loop - 1\obj\Debug\net8.0\Do while  Loop - 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal File\VB.NET Program\Do while  Loop - 1\Do while  Loop - 1\obj\Debug\net8.0\Do while  Loop - 1.AssemblyInfoInputs.cache
+C:\Personal File\VB.NET Program\Do while  Loop - 1\Do while  Loop - 1\obj\Debug\net8.0\Do while  Loop - 1.AssemblyInfo.vb
+C:\Personal File\VB.NET Program\Do while  Loop - 1\Do while  Loop - 1\obj\Debug\net8.0\Do while  Loop - 1.vbproj.CoreCompileInputs.cache
+C:\Personal File\VB.NET Program\Do while  Loop - 1\Do while  Loop - 1\obj\Debug\net8.0\Do while  Loop - 1.dll
+C:\Personal File\VB.NET Program\Do while  Loop - 1\Do while  Loop - 1\obj\Debug\net8.0\refint\Do while  Loop - 1.dll
+C:\Personal File\VB.NET Program\Do while  Loop - 1\Do while  Loop - 1\obj\Debug\net8.0\Do while  Loop - 1.pdb
+C:\Personal File\VB.NET Program\Do while  Loop - 1\Do while  Loop - 1\obj\Debug\net8.0\Do while  Loop - 1.genruntimeconfig.cache
+C:\Personal File\VB.NET Program\Do while  Loop - 1\Do while  Loop - 1\obj\Debug\net8.0\ref\Do while  Loop - 1.dll

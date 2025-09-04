@@ -1,0 +1,14 @@
+C:\Personal File\VB.NET Program\Even or Odd\Even or Odd\bin\Debug\net8.0\Even or Odd.exe
+C:\Personal File\VB.NET Program\Even or Odd\Even or Odd\bin\Debug\net8.0\Even or Odd.deps.json
+C:\Personal File\VB.NET Program\Even or Odd\Even or Odd\bin\Debug\net8.0\Even or Odd.runtimeconfig.json
+C:\Personal File\VB.NET Program\Even or Odd\Even or Odd\bin\Debug\net8.0\Even or Odd.dll
+C:\Personal File\VB.NET Program\Even or Odd\Even or Odd\bin\Debug\net8.0\Even or Odd.pdb
+C:\Personal File\VB.NET Program\Even or Odd\Even or Odd\obj\Debug\net8.0\Even or Odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal File\VB.NET Program\Even or Odd\Even or Odd\obj\Debug\net8.0\Even or Odd.AssemblyInfoInputs.cache
+C:\Personal File\VB.NET Program\Even or Odd\Even or Odd\obj\Debug\net8.0\Even or Odd.AssemblyInfo.vb
+C:\Personal File\VB.NET Program\Even or Odd\Even or Odd\obj\Debug\net8.0\Even or Odd.vbproj.CoreCompileInputs.cache
+C:\Personal File\VB.NET Program\Even or Odd\Even or Odd\obj\Debug\net8.0\Even or Odd.dll
+C:\Personal File\VB.NET Program\Even or Odd\Even or Odd\obj\Debug\net8.0\refint\Even or Odd.dll
+C:\Personal File\VB.NET Program\Even or Odd\Even or Odd\obj\Debug\net8.0\Even or Odd.pdb
+C:\Personal File\VB.NET Program\Even or Odd\Even or Odd\obj\Debug\net8.0\Even or Odd.genruntimeconfig.cache
+C:\Personal File\VB.NET Program\Even or Odd\Even or Odd\obj\Debug\net8.0\ref\Even or Odd.dll

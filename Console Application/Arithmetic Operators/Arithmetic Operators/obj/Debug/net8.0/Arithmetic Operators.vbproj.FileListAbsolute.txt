@@ -1,0 +1,14 @@
+C:\Personal File\VB.NET Program\Arithmetic Operators\Arithmetic Operators\bin\Debug\net8.0\Arithmetic Operators.exe
+C:\Personal File\VB.NET Program\Arithmetic Operators\Arithmetic Operators\bin\Debug\net8.0\Arithmetic Operators.deps.json
+C:\Personal File\VB.NET Program\Arithmetic Operators\Arithmetic Operators\bin\Debug\net8.0\Arithmetic Operators.runtimeconfig.json
+C:\Personal File\VB.NET Program\Arithmetic Operators\Arithmetic Operators\bin\Debug\net8.0\Arithmetic Operators.dll
+C:\Personal File\VB.NET Program\Arithmetic Operators\Arithmetic Operators\bin\Debug\net8.0\Arithmetic Operators.pdb
+C:\Personal File\VB.NET Program\Arithmetic Operators\Arithmetic Operators\obj\Debug\net8.0\Arithmetic Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal File\VB.NET Program\Arithmetic Operators\Arithmetic Operators\obj\Debug\net8.0\Arithmetic Operators.AssemblyInfoInputs.cache
+C:\Personal File\VB.NET Program\Arithmetic Operators\Arithmetic Operators\obj\Debug\net8.0\Arithmetic Operators.AssemblyInfo.vb
+C:\Personal File\VB.NET Program\Arithmetic Operators\Arithmetic Operators\obj\Debug\net8.0\Arithmetic Operators.vbproj.CoreCompileInputs.cache
+C:\Personal File\VB.NET Program\Arithmetic Operators\Arithmetic Operators\obj\Debug\net8.0\Arithmetic Operators.dll
+C:\Personal File\VB.NET Program\Arithmetic Operators\Arithmetic Operators\obj\Debug\net8.0\refint\Arithmetic Operators.dll
+C:\Personal File\VB.NET Program\Arithmetic Operators\Arithmetic Operators\obj\Debug\net8.0\Arithmetic Operators.pdb
+C:\Personal File\VB.NET Program\Arithmetic Operators\Arithmetic Operators\obj\Debug\net8.0\Arithmetic Operators.genruntimeconfig.cache
+C:\Personal File\VB.NET Program\Arithmetic Operators\Arithmetic Operators\obj\Debug\net8.0\ref\Arithmetic Operators.dll

@@ -1,0 +1,14 @@
+C:\Personal File\VB.NET Program\Single Inheritance\Single Inheritance\bin\Debug\net8.0\Single Inheritance.exe
+C:\Personal File\VB.NET Program\Single Inheritance\Single Inheritance\bin\Debug\net8.0\Single Inheritance.deps.json
+C:\Personal File\VB.NET Program\Single Inheritance\Single Inheritance\bin\Debug\net8.0\Single Inheritance.runtimeconfig.json
+C:\Personal File\VB.NET Program\Single Inheritance\Single Inheritance\bin\Debug\net8.0\Single Inheritance.dll
+C:\Personal File\VB.NET Program\Single Inheritance\Single Inheritance\bin\Debug\net8.0\Single Inheritance.pdb
+C:\Personal File\VB.NET Program\Single Inheritance\Single Inheritance\obj\Debug\net8.0\Single Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal File\VB.NET Program\Single Inheritance\Single Inheritance\obj\Debug\net8.0\Single Inheritance.AssemblyInfoInputs.cache
+C:\Personal File\VB.NET Program\Single Inheritance\Single Inheritance\obj\Debug\net8.0\Single Inheritance.AssemblyInfo.vb
+C:\Personal File\VB.NET Program\Single Inheritance\Single Inheritance\obj\Debug\net8.0\Single Inheritance.vbproj.CoreCompileInputs.cache
+C:\Personal File\VB.NET Program\Single Inheritance\Single Inheritance\obj\Debug\net8.0\Single Inheritance.dll
+C:\Personal File\VB.NET Program\Single Inheritance\Single Inheritance\obj\Debug\net8.0\refint\Single Inheritance.dll
+C:\Personal File\VB.NET Program\Single Inheritance\Single Inheritance\obj\Debug\net8.0\Single Inheritance.pdb
+C:\Personal File\VB.NET Program\Single Inheritance\Single Inheritance\obj\Debug\net8.0\Single Inheritance.genruntimeconfig.cache
+C:\Personal File\VB.NET Program\Single Inheritance\Single Inheritance\obj\Debug\net8.0\ref\Single Inheritance.dll

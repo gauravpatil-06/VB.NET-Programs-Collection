@@ -1,0 +1,12 @@
+C:\Personal File\VB.NET Program\Windows Application\Panel & PiictureBox\Panel & PiictureBox\bin\Debug\Panel & PiictureBox.exe.config
+C:\Personal File\VB.NET Program\Windows Application\Panel & PiictureBox\Panel & PiictureBox\bin\Debug\Panel & PiictureBox.exe
+C:\Personal File\VB.NET Program\Windows Application\Panel & PiictureBox\Panel & PiictureBox\bin\Debug\Panel & PiictureBox.pdb
+C:\Personal File\VB.NET Program\Windows Application\Panel & PiictureBox\Panel & PiictureBox\bin\Debug\Panel & PiictureBox.xml
+C:\Personal File\VB.NET Program\Windows Application\Panel & PiictureBox\Panel & PiictureBox\obj\Debug\Panel & PiictureBox.vbproj.AssemblyReference.cache
+C:\Personal File\VB.NET Program\Windows Application\Panel & PiictureBox\Panel & PiictureBox\obj\Debug\Panel___PiictureBox.Form1.resources
+C:\Personal File\VB.NET Program\Windows Application\Panel & PiictureBox\Panel & PiictureBox\obj\Debug\Panel___PiictureBox.Resources.resources
+C:\Personal File\VB.NET Program\Windows Application\Panel & PiictureBox\Panel & PiictureBox\obj\Debug\Panel & PiictureBox.vbproj.GenerateResource.cache
+C:\Personal File\VB.NET Program\Windows Application\Panel & PiictureBox\Panel & PiictureBox\obj\Debug\Panel & PiictureBox.vbproj.CoreCompileInputs.cache
+C:\Personal File\VB.NET Program\Windows Application\Panel & PiictureBox\Panel & PiictureBox\obj\Debug\Panel & PiictureBox.exe
+C:\Personal File\VB.NET Program\Windows Application\Panel & PiictureBox\Panel & PiictureBox\obj\Debug\Panel & PiictureBox.xml
+C:\Personal File\VB.NET Program\Windows Application\Panel & PiictureBox\Panel & PiictureBox\obj\Debug\Panel & PiictureBox.pdb

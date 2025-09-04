@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Personal File\\VB.NET Program\\For Lopp - 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA9B85B-B834-4678-8070-8C0FDD146D61}|For Lopp - 2\\For Lopp - 2.vbproj|c:\\personal file\\vb.net program\\for lopp - 2\\for lopp - 2\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{3BA9B85B-B834-4678-8070-8C0FDD146D61}|For Lopp - 2\\For Lopp - 2.vbproj|solutionrelative:for lopp - 2\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Personal File\\VB.NET Program\\For Lopp - 2\\For Lopp - 2\\Program.vb",
+              "RelativeDocumentMoniker": "For Lopp - 2\\Program.vb",
+              "ToolTip": "C:\\Personal File\\VB.NET Program\\For Lopp - 2\\For Lopp - 2\\Program.vb",
+              "RelativeToolTip": "For Lopp - 2\\Program.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-12T11:18:30.935Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

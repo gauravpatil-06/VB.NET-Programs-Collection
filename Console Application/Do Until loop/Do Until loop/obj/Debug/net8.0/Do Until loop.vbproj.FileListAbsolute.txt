@@ -1,0 +1,14 @@
+C:\Personal File\VB.NET Program\Do Until loop\Do Until loop\bin\Debug\net8.0\Do Until loop.exe
+C:\Personal File\VB.NET Program\Do Until loop\Do Until loop\bin\Debug\net8.0\Do Until loop.deps.json
+C:\Personal File\VB.NET Program\Do Until loop\Do Until loop\bin\Debug\net8.0\Do Until loop.runtimeconfig.json
+C:\Personal File\VB.NET Program\Do Until loop\Do Until loop\bin\Debug\net8.0\Do Until loop.dll
+C:\Personal File\VB.NET Program\Do Until loop\Do Until loop\bin\Debug\net8.0\Do Until loop.pdb
+C:\Personal File\VB.NET Program\Do Until loop\Do Until loop\obj\Debug\net8.0\Do Until loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal File\VB.NET Program\Do Until loop\Do Until loop\obj\Debug\net8.0\Do Until loop.AssemblyInfoInputs.cache
+C:\Personal File\VB.NET Program\Do Until loop\Do Until loop\obj\Debug\net8.0\Do Until loop.AssemblyInfo.vb
+C:\Personal File\VB.NET Program\Do Until loop\Do Until loop\obj\Debug\net8.0\Do Until loop.vbproj.CoreCompileInputs.cache
+C:\Personal File\VB.NET Program\Do Until loop\Do Until loop\obj\Debug\net8.0\Do Until loop.dll
+C:\Personal File\VB.NET Program\Do Until loop\Do Until loop\obj\Debug\net8.0\refint\Do Until loop.dll
+C:\Personal File\VB.NET Program\Do Until loop\Do Until loop\obj\Debug\net8.0\Do Until loop.pdb
+C:\Personal File\VB.NET Program\Do Until loop\Do Until loop\obj\Debug\net8.0\Do Until loop.genruntimeconfig.cache
+C:\Personal File\VB.NET Program\Do Until loop\Do Until loop\obj\Debug\net8.0\ref\Do Until loop.dll

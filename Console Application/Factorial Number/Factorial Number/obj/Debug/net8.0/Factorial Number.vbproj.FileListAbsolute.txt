@@ -1,0 +1,14 @@
+C:\Personal File\VB.NET Program\Factorial Number\Factorial Number\bin\Debug\net8.0\Factorial Number.exe
+C:\Personal File\VB.NET Program\Factorial Number\Factorial Number\bin\Debug\net8.0\Factorial Number.deps.json
+C:\Personal File\VB.NET Program\Factorial Number\Factorial Number\bin\Debug\net8.0\Factorial Number.runtimeconfig.json
+C:\Personal File\VB.NET Program\Factorial Number\Factorial Number\bin\Debug\net8.0\Factorial Number.dll
+C:\Personal File\VB.NET Program\Factorial Number\Factorial Number\bin\Debug\net8.0\Factorial Number.pdb
+C:\Personal File\VB.NET Program\Factorial Number\Factorial Number\obj\Debug\net8.0\Factorial Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal File\VB.NET Program\Factorial Number\Factorial Number\obj\Debug\net8.0\Factorial Number.AssemblyInfoInputs.cache
+C:\Personal File\VB.NET Program\Factorial Number\Factorial Number\obj\Debug\net8.0\Factorial Number.AssemblyInfo.vb
+C:\Personal File\VB.NET Program\Factorial Number\Factorial Number\obj\Debug\net8.0\Factorial Number.vbproj.CoreCompileInputs.cache
+C:\Personal File\VB.NET Program\Factorial Number\Factorial Number\obj\Debug\net8.0\Factorial Number.dll
+C:\Personal File\VB.NET Program\Factorial Number\Factorial Number\obj\Debug\net8.0\refint\Factorial Number.dll
+C:\Personal File\VB.NET Program\Factorial Number\Factorial Number\obj\Debug\net8.0\Factorial Number.pdb
+C:\Personal File\VB.NET Program\Factorial Number\Factorial Number\obj\Debug\net8.0\Factorial Number.genruntimeconfig.cache
+C:\Personal File\VB.NET Program\Factorial Number\Factorial Number\obj\Debug\net8.0\ref\Factorial Number.dll

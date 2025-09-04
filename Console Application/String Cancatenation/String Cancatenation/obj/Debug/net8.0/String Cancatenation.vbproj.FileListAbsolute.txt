@@ -1,0 +1,14 @@
+C:\Personal File\VB.NET Program\String Cancatenation\String Cancatenation\bin\Debug\net8.0\String Cancatenation.exe
+C:\Personal File\VB.NET Program\String Cancatenation\String Cancatenation\bin\Debug\net8.0\String Cancatenation.deps.json
+C:\Personal File\VB.NET Program\String Cancatenation\String Cancatenation\bin\Debug\net8.0\String Cancatenation.runtimeconfig.json
+C:\Personal File\VB.NET Program\String Cancatenation\String Cancatenation\bin\Debug\net8.0\String Cancatenation.dll
+C:\Personal File\VB.NET Program\String Cancatenation\String Cancatenation\bin\Debug\net8.0\String Cancatenation.pdb
+C:\Personal File\VB.NET Program\String Cancatenation\String Cancatenation\obj\Debug\net8.0\String Cancatenation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal File\VB.NET Program\String Cancatenation\String Cancatenation\obj\Debug\net8.0\String Cancatenation.AssemblyInfoInputs.cache
+C:\Personal File\VB.NET Program\String Cancatenation\String Cancatenation\obj\Debug\net8.0\String Cancatenation.AssemblyInfo.vb
+C:\Personal File\VB.NET Program\String Cancatenation\String Cancatenation\obj\Debug\net8.0\String Cancatenation.vbproj.CoreCompileInputs.cache
+C:\Personal File\VB.NET Program\String Cancatenation\String Cancatenation\obj\Debug\net8.0\String Cancatenation.dll
+C:\Personal File\VB.NET Program\String Cancatenation\String Cancatenation\obj\Debug\net8.0\refint\String Cancatenation.dll
+C:\Personal File\VB.NET Program\String Cancatenation\String Cancatenation\obj\Debug\net8.0\String Cancatenation.pdb
+C:\Personal File\VB.NET Program\String Cancatenation\String Cancatenation\obj\Debug\net8.0\String Cancatenation.genruntimeconfig.cache
+C:\Personal File\VB.NET Program\String Cancatenation\String Cancatenation\obj\Debug\net8.0\ref\String Cancatenation.dll

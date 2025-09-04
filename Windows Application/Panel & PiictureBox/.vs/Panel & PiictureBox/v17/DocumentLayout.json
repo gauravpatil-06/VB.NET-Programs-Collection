@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Personal File\\VB.NET Program\\Windows Application\\Panel \u0026 PiictureBox\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6539370-2CDC-4B31-8BF7-6C6CF7A5FA46}|Panel \u0026 PiictureBox\\Panel \u0026 PiictureBox.vbproj|C:\\Personal File\\VB.NET Program\\Windows Application\\Panel \u0026 PiictureBox\\panel \u0026 piicturebox\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F6539370-2CDC-4B31-8BF7-6C6CF7A5FA46}|Panel \u0026 PiictureBox\\Panel \u0026 PiictureBox.vbproj|solutionrelative:panel \u0026 piicturebox\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6539370-2CDC-4B31-8BF7-6C6CF7A5FA46}|Panel \u0026 PiictureBox\\Panel \u0026 PiictureBox.vbproj|c:\\personal file\\vb.net program\\windows application\\panel \u0026 piicturebox\\panel \u0026 piicturebox\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F6539370-2CDC-4B31-8BF7-6C6CF7A5FA46}|Panel \u0026 PiictureBox\\Panel \u0026 PiictureBox.vbproj|solutionrelative:panel \u0026 piicturebox\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Personal File\\VB.NET Program\\Windows Application\\Panel \u0026 PiictureBox\\Panel \u0026 PiictureBox\\Form1.vb",
+              "RelativeDocumentMoniker": "Panel \u0026 PiictureBox\\Form1.vb",
+              "ToolTip": "C:\\Personal File\\VB.NET Program\\Windows Application\\Panel \u0026 PiictureBox\\Panel \u0026 PiictureBox\\Form1.vb",
+              "RelativeToolTip": "Panel \u0026 PiictureBox\\Form1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-12T13:19:37.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Personal File\\VB.NET Program\\Windows Application\\Panel \u0026 PiictureBox\\Panel \u0026 PiictureBox\\Form1.vb",
+              "RelativeDocumentMoniker": "Panel \u0026 PiictureBox\\Form1.vb",
+              "ToolTip": "C:\\Personal File\\VB.NET Program\\Windows Application\\Panel \u0026 PiictureBox\\Panel \u0026 PiictureBox\\Form1.vb [Design]",
+              "RelativeToolTip": "Panel \u0026 PiictureBox\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-12T13:17:37.135Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

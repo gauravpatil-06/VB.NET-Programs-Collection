@@ -1,0 +1,12 @@
+C:\Personal File\VB.NET Program\Windows Application\Colour & Gender\Colour & Gender\bin\Debug\Colour & Gender.exe.config
+C:\Personal File\VB.NET Program\Windows Application\Colour & Gender\Colour & Gender\bin\Debug\Colour & Gender.exe
+C:\Personal File\VB.NET Program\Windows Application\Colour & Gender\Colour & Gender\bin\Debug\Colour & Gender.pdb
+C:\Personal File\VB.NET Program\Windows Application\Colour & Gender\Colour & Gender\bin\Debug\Colour & Gender.xml
+C:\Personal File\VB.NET Program\Windows Application\Colour & Gender\Colour & Gender\obj\Debug\Colour & Gender.vbproj.AssemblyReference.cache
+C:\Personal File\VB.NET Program\Windows Application\Colour & Gender\Colour & Gender\obj\Debug\Colour___Gender.Form1.resources
+C:\Personal File\VB.NET Program\Windows Application\Colour & Gender\Colour & Gender\obj\Debug\Colour___Gender.Resources.resources
+C:\Personal File\VB.NET Program\Windows Application\Colour & Gender\Colour & Gender\obj\Debug\Colour & Gender.vbproj.GenerateResource.cache
+C:\Personal File\VB.NET Program\Windows Application\Colour & Gender\Colour & Gender\obj\Debug\Colour & Gender.vbproj.CoreCompileInputs.cache
+C:\Personal File\VB.NET Program\Windows Application\Colour & Gender\Colour & Gender\obj\Debug\Colour & Gender.exe
+C:\Personal File\VB.NET Program\Windows Application\Colour & Gender\Colour & Gender\obj\Debug\Colour & Gender.xml
+C:\Personal File\VB.NET Program\Windows Application\Colour & Gender\Colour & Gender\obj\Debug\Colour & Gender.pdb

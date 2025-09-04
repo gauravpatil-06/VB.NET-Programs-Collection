@@ -1,0 +1,14 @@
+C:\Personal File\VB.NET Program\Exit statement\Exit statement\bin\Debug\net8.0\Exit statement.exe
+C:\Personal File\VB.NET Program\Exit statement\Exit statement\bin\Debug\net8.0\Exit statement.deps.json
+C:\Personal File\VB.NET Program\Exit statement\Exit statement\bin\Debug\net8.0\Exit statement.runtimeconfig.json
+C:\Personal File\VB.NET Program\Exit statement\Exit statement\bin\Debug\net8.0\Exit statement.dll
+C:\Personal File\VB.NET Program\Exit statement\Exit statement\bin\Debug\net8.0\Exit statement.pdb
+C:\Personal File\VB.NET Program\Exit statement\Exit statement\obj\Debug\net8.0\Exit statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal File\VB.NET Program\Exit statement\Exit statement\obj\Debug\net8.0\Exit statement.AssemblyInfoInputs.cache
+C:\Personal File\VB.NET Program\Exit statement\Exit statement\obj\Debug\net8.0\Exit statement.AssemblyInfo.vb
+C:\Personal File\VB.NET Program\Exit statement\Exit statement\obj\Debug\net8.0\Exit statement.vbproj.CoreCompileInputs.cache
+C:\Personal File\VB.NET Program\Exit statement\Exit statement\obj\Debug\net8.0\Exit statement.dll
+C:\Personal File\VB.NET Program\Exit statement\Exit statement\obj\Debug\net8.0\refint\Exit statement.dll
+C:\Personal File\VB.NET Program\Exit statement\Exit statement\obj\Debug\net8.0\Exit statement.pdb
+C:\Personal File\VB.NET Program\Exit statement\Exit statement\obj\Debug\net8.0\Exit statement.genruntimeconfig.cache
+C:\Personal File\VB.NET Program\Exit statement\Exit statement\obj\Debug\net8.0\ref\Exit statement.dll

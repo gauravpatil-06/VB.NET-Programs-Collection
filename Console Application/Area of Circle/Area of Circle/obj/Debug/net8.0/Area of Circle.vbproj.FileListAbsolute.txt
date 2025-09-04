@@ -1,0 +1,14 @@
+C:\Personal File\VB.NET Program\Area of Circle\Area of Circle\bin\Debug\net8.0\Area of Circle.exe
+C:\Personal File\VB.NET Program\Area of Circle\Area of Circle\bin\Debug\net8.0\Area of Circle.deps.json
+C:\Personal File\VB.NET Program\Area of Circle\Area of Circle\bin\Debug\net8.0\Area of Circle.runtimeconfig.json
+C:\Personal File\VB.NET Program\Area of Circle\Area of Circle\bin\Debug\net8.0\Area of Circle.dll
+C:\Personal File\VB.NET Program\Area of Circle\Area of Circle\bin\Debug\net8.0\Area of Circle.pdb
+C:\Personal File\VB.NET Program\Area of Circle\Area of Circle\obj\Debug\net8.0\Area of Circle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal File\VB.NET Program\Area of Circle\Area of Circle\obj\Debug\net8.0\Area of Circle.AssemblyInfoInputs.cache
+C:\Personal File\VB.NET Program\Area of Circle\Area of Circle\obj\Debug\net8.0\Area of Circle.AssemblyInfo.vb
+C:\Personal File\VB.NET Program\Area of Circle\Area of Circle\obj\Debug\net8.0\Area of Circle.vbproj.CoreCompileInputs.cache
+C:\Personal File\VB.NET Program\Area of Circle\Area of Circle\obj\Debug\net8.0\Area of Circle.dll
+C:\Personal File\VB.NET Program\Area of Circle\Area of Circle\obj\Debug\net8.0\refint\Area of Circle.dll
+C:\Personal File\VB.NET Program\Area of Circle\Area of Circle\obj\Debug\net8.0\Area of Circle.pdb
+C:\Personal File\VB.NET Program\Area of Circle\Area of Circle\obj\Debug\net8.0\Area of Circle.genruntimeconfig.cache
+C:\Personal File\VB.NET Program\Area of Circle\Area of Circle\obj\Debug\net8.0\ref\Area of Circle.dll

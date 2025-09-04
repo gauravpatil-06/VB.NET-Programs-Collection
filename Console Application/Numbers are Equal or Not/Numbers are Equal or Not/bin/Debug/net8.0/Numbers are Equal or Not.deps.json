@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Numbers are Equal or Not/1.0.0": {
+        "runtime": {
+          "Numbers are Equal or Not.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Numbers are Equal or Not/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

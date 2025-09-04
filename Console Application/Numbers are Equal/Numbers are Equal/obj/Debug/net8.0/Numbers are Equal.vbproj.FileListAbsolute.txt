@@ -1,0 +1,14 @@
+C:\Personal File\VB.NET Program\Numbers are Equal\Numbers are Equal\bin\Debug\net8.0\Numbers are Equal.exe
+C:\Personal File\VB.NET Program\Numbers are Equal\Numbers are Equal\bin\Debug\net8.0\Numbers are Equal.deps.json
+C:\Personal File\VB.NET Program\Numbers are Equal\Numbers are Equal\bin\Debug\net8.0\Numbers are Equal.runtimeconfig.json
+C:\Personal File\VB.NET Program\Numbers are Equal\Numbers are Equal\bin\Debug\net8.0\Numbers are Equal.dll
+C:\Personal File\VB.NET Program\Numbers are Equal\Numbers are Equal\bin\Debug\net8.0\Numbers are Equal.pdb
+C:\Personal File\VB.NET Program\Numbers are Equal\Numbers are Equal\obj\Debug\net8.0\Numbers are Equal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal File\VB.NET Program\Numbers are Equal\Numbers are Equal\obj\Debug\net8.0\Numbers are Equal.AssemblyInfoInputs.cache
+C:\Personal File\VB.NET Program\Numbers are Equal\Numbers are Equal\obj\Debug\net8.0\Numbers are Equal.AssemblyInfo.vb
+C:\Personal File\VB.NET Program\Numbers are Equal\Numbers are Equal\obj\Debug\net8.0\Numbers are Equal.vbproj.CoreCompileInputs.cache
+C:\Personal File\VB.NET Program\Numbers are Equal\Numbers are Equal\obj\Debug\net8.0\Numbers are Equal.dll
+C:\Personal File\VB.NET Program\Numbers are Equal\Numbers are Equal\obj\Debug\net8.0\refint\Numbers are Equal.dll
+C:\Personal File\VB.NET Program\Numbers are Equal\Numbers are Equal\obj\Debug\net8.0\Numbers are Equal.pdb
+C:\Personal File\VB.NET Program\Numbers are Equal\Numbers are Equal\obj\Debug\net8.0\Numbers are Equal.genruntimeconfig.cache
+C:\Personal File\VB.NET Program\Numbers are Equal\Numbers are Equal\obj\Debug\net8.0\ref\Numbers are Equal.dll

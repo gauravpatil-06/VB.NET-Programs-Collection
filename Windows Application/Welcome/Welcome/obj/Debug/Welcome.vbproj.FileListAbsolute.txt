@@ -1,0 +1,12 @@
+C:\Personal File\VB.NET Program\Welcome\Welcome\bin\Debug\Welcome.exe.config
+C:\Personal File\VB.NET Program\Welcome\Welcome\bin\Debug\Welcome.exe
+C:\Personal File\VB.NET Program\Welcome\Welcome\bin\Debug\Welcome.pdb
+C:\Personal File\VB.NET Program\Welcome\Welcome\bin\Debug\Welcome.xml
+C:\Personal File\VB.NET Program\Welcome\Welcome\obj\Debug\Welcome.vbproj.AssemblyReference.cache
+C:\Personal File\VB.NET Program\Welcome\Welcome\obj\Debug\Welcome.Form1.resources
+C:\Personal File\VB.NET Program\Welcome\Welcome\obj\Debug\Welcome.Resources.resources
+C:\Personal File\VB.NET Program\Welcome\Welcome\obj\Debug\Welcome.vbproj.GenerateResource.cache
+C:\Personal File\VB.NET Program\Welcome\Welcome\obj\Debug\Welcome.vbproj.CoreCompileInputs.cache
+C:\Personal File\VB.NET Program\Welcome\Welcome\obj\Debug\Welcome.exe
+C:\Personal File\VB.NET Program\Welcome\Welcome\obj\Debug\Welcome.xml
+C:\Personal File\VB.NET Program\Welcome\Welcome\obj\Debug\Welcome.pdb

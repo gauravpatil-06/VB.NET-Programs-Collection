@@ -1,0 +1,14 @@
+C:\Personal File\VB.NET Program\For Each  Next Loop\For Each  Next Loop\bin\Debug\net8.0\For Each  Next Loop.exe
+C:\Personal File\VB.NET Program\For Each  Next Loop\For Each  Next Loop\bin\Debug\net8.0\For Each  Next Loop.deps.json
+C:\Personal File\VB.NET Program\For Each  Next Loop\For Each  Next Loop\bin\Debug\net8.0\For Each  Next Loop.runtimeconfig.json
+C:\Personal File\VB.NET Program\For Each  Next Loop\For Each  Next Loop\bin\Debug\net8.0\For Each  Next Loop.dll
+C:\Personal File\VB.NET Program\For Each  Next Loop\For Each  Next Loop\bin\Debug\net8.0\For Each  Next Loop.pdb
+C:\Personal File\VB.NET Program\For Each  Next Loop\For Each  Next Loop\obj\Debug\net8.0\For Each  Next Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal File\VB.NET Program\For Each  Next Loop\For Each  Next Loop\obj\Debug\net8.0\For Each  Next Loop.AssemblyInfoInputs.cache
+C:\Personal File\VB.NET Program\For Each  Next Loop\For Each  Next Loop\obj\Debug\net8.0\For Each  Next Loop.AssemblyInfo.vb
+C:\Personal File\VB.NET Program\For Each  Next Loop\For Each  Next Loop\obj\Debug\net8.0\For Each  Next Loop.vbproj.CoreCompileInputs.cache
+C:\Personal File\VB.NET Program\For Each  Next Loop\For Each  Next Loop\obj\Debug\net8.0\For Each  Next Loop.dll
+C:\Personal File\VB.NET Program\For Each  Next Loop\For Each  Next Loop\obj\Debug\net8.0\refint\For Each  Next Loop.dll
+C:\Personal File\VB.NET Program\For Each  Next Loop\For Each  Next Loop\obj\Debug\net8.0\For Each  Next Loop.pdb
+C:\Personal File\VB.NET Program\For Each  Next Loop\For Each  Next Loop\obj\Debug\net8.0\For Each  Next Loop.genruntimeconfig.cache
+C:\Personal File\VB.NET Program\For Each  Next Loop\For Each  Next Loop\obj\Debug\net8.0\ref\For Each  Next Loop.dll

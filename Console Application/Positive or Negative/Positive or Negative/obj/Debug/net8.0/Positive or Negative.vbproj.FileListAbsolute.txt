@@ -1,0 +1,14 @@
+C:\Personal File\VB.NET Program\Positive or Negative\Positive or Negative\bin\Debug\net8.0\Positive or Negative.exe
+C:\Personal File\VB.NET Program\Positive or Negative\Positive or Negative\bin\Debug\net8.0\Positive or Negative.deps.json
+C:\Personal File\VB.NET Program\Positive or Negative\Positive or Negative\bin\Debug\net8.0\Positive or Negative.runtimeconfig.json
+C:\Personal File\VB.NET Program\Positive or Negative\Positive or Negative\bin\Debug\net8.0\Positive or Negative.dll
+C:\Personal File\VB.NET Program\Positive or Negative\Positive or Negative\bin\Debug\net8.0\Positive or Negative.pdb
+C:\Personal File\VB.NET Program\Positive or Negative\Positive or Negative\obj\Debug\net8.0\Positive or Negative.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal File\VB.NET Program\Positive or Negative\Positive or Negative\obj\Debug\net8.0\Positive or Negative.AssemblyInfoInputs.cache
+C:\Personal File\VB.NET Program\Positive or Negative\Positive or Negative\obj\Debug\net8.0\Positive or Negative.AssemblyInfo.vb
+C:\Personal File\VB.NET Program\Positive or Negative\Positive or Negative\obj\Debug\net8.0\Positive or Negative.vbproj.CoreCompileInputs.cache
+C:\Personal File\VB.NET Program\Positive or Negative\Positive or Negative\obj\Debug\net8.0\Positive or Negative.dll
+C:\Personal File\VB.NET Program\Positive or Negative\Positive or Negative\obj\Debug\net8.0\refint\Positive or Negative.dll
+C:\Personal File\VB.NET Program\Positive or Negative\Positive or Negative\obj\Debug\net8.0\Positive or Negative.pdb
+C:\Personal File\VB.NET Program\Positive or Negative\Positive or Negative\obj\Debug\net8.0\Positive or Negative.genruntimeconfig.cache
+C:\Personal File\VB.NET Program\Positive or Negative\Positive or Negative\obj\Debug\net8.0\ref\Positive or Negative.dll

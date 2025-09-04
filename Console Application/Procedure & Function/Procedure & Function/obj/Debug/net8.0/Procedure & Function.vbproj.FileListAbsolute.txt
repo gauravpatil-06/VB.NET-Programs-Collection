@@ -1,0 +1,14 @@
+C:\Personal File\VB.NET Program\Procedure & Function\Procedure & Function\bin\Debug\net8.0\Procedure & Function.exe
+C:\Personal File\VB.NET Program\Procedure & Function\Procedure & Function\bin\Debug\net8.0\Procedure & Function.deps.json
+C:\Personal File\VB.NET Program\Procedure & Function\Procedure & Function\bin\Debug\net8.0\Procedure & Function.runtimeconfig.json
+C:\Personal File\VB.NET Program\Procedure & Function\Procedure & Function\bin\Debug\net8.0\Procedure & Function.dll
+C:\Personal File\VB.NET Program\Procedure & Function\Procedure & Function\bin\Debug\net8.0\Procedure & Function.pdb
+C:\Personal File\VB.NET Program\Procedure & Function\Procedure & Function\obj\Debug\net8.0\Procedure & Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal File\VB.NET Program\Procedure & Function\Procedure & Function\obj\Debug\net8.0\Procedure & Function.AssemblyInfoInputs.cache
+C:\Personal File\VB.NET Program\Procedure & Function\Procedure & Function\obj\Debug\net8.0\Procedure & Function.AssemblyInfo.vb
+C:\Personal File\VB.NET Program\Procedure & Function\Procedure & Function\obj\Debug\net8.0\Procedure & Function.vbproj.CoreCompileInputs.cache
+C:\Personal File\VB.NET Program\Procedure & Function\Procedure & Function\obj\Debug\net8.0\Procedure & Function.dll
+C:\Personal File\VB.NET Program\Procedure & Function\Procedure & Function\obj\Debug\net8.0\refint\Procedure & Function.dll
+C:\Personal File\VB.NET Program\Procedure & Function\Procedure & Function\obj\Debug\net8.0\Procedure & Function.pdb
+C:\Personal File\VB.NET Program\Procedure & Function\Procedure & Function\obj\Debug\net8.0\Procedure & Function.genruntimeconfig.cache
+C:\Personal File\VB.NET Program\Procedure & Function\Procedure & Function\obj\Debug\net8.0\ref\Procedure & Function.dll

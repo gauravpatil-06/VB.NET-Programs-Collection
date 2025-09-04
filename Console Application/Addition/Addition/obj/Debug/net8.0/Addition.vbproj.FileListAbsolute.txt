@@ -1,0 +1,14 @@
+C:\Personal File\VB.NET Program\Addition\Addition\bin\Debug\net8.0\Addition.exe
+C:\Personal File\VB.NET Program\Addition\Addition\bin\Debug\net8.0\Addition.deps.json
+C:\Personal File\VB.NET Program\Addition\Addition\bin\Debug\net8.0\Addition.runtimeconfig.json
+C:\Personal File\VB.NET Program\Addition\Addition\bin\Debug\net8.0\Addition.dll
+C:\Personal File\VB.NET Program\Addition\Addition\bin\Debug\net8.0\Addition.pdb
+C:\Personal File\VB.NET Program\Addition\Addition\obj\Debug\net8.0\Addition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal File\VB.NET Program\Addition\Addition\obj\Debug\net8.0\Addition.AssemblyInfoInputs.cache
+C:\Personal File\VB.NET Program\Addition\Addition\obj\Debug\net8.0\Addition.AssemblyInfo.vb
+C:\Personal File\VB.NET Program\Addition\Addition\obj\Debug\net8.0\Addition.vbproj.CoreCompileInputs.cache
+C:\Personal File\VB.NET Program\Addition\Addition\obj\Debug\net8.0\Addition.dll
+C:\Personal File\VB.NET Program\Addition\Addition\obj\Debug\net8.0\refint\Addition.dll
+C:\Personal File\VB.NET Program\Addition\Addition\obj\Debug\net8.0\Addition.pdb
+C:\Personal File\VB.NET Program\Addition\Addition\obj\Debug\net8.0\Addition.genruntimeconfig.cache
+C:\Personal File\VB.NET Program\Addition\Addition\obj\Debug\net8.0\ref\Addition.dll

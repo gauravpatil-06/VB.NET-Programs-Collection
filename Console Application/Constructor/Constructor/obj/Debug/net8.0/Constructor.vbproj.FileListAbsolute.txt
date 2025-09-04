@@ -1,0 +1,14 @@
+C:\Personal File\VB.NET Program\Constructor\Constructor\bin\Debug\net8.0\Constructor.exe
+C:\Personal File\VB.NET Program\Constructor\Constructor\bin\Debug\net8.0\Constructor.deps.json
+C:\Personal File\VB.NET Program\Constructor\Constructor\bin\Debug\net8.0\Constructor.runtimeconfig.json
+C:\Personal File\VB.NET Program\Constructor\Constructor\bin\Debug\net8.0\Constructor.dll
+C:\Personal File\VB.NET Program\Constructor\Constructor\bin\Debug\net8.0\Constructor.pdb
+C:\Personal File\VB.NET Program\Constructor\Constructor\obj\Debug\net8.0\Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal File\VB.NET Program\Constructor\Constructor\obj\Debug\net8.0\Constructor.AssemblyInfoInputs.cache
+C:\Personal File\VB.NET Program\Constructor\Constructor\obj\Debug\net8.0\Constructor.AssemblyInfo.vb
+C:\Personal File\VB.NET Program\Constructor\Constructor\obj\Debug\net8.0\Constructor.vbproj.CoreCompileInputs.cache
+C:\Personal File\VB.NET Program\Constructor\Constructor\obj\Debug\net8.0\Constructor.dll
+C:\Personal File\VB.NET Program\Constructor\Constructor\obj\Debug\net8.0\refint\Constructor.dll
+C:\Personal File\VB.NET Program\Constructor\Constructor\obj\Debug\net8.0\Constructor.pdb
+C:\Personal File\VB.NET Program\Constructor\Constructor\obj\Debug\net8.0\Constructor.genruntimeconfig.cache
+C:\Personal File\VB.NET Program\Constructor\Constructor\obj\Debug\net8.0\ref\Constructor.dll

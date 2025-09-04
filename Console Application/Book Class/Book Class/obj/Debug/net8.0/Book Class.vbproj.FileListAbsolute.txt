@@ -1,0 +1,14 @@
+C:\Personal File\VB.NET Program\Book Class\Book Class\bin\Debug\net8.0\Book Class.exe
+C:\Personal File\VB.NET Program\Book Class\Book Class\bin\Debug\net8.0\Book Class.deps.json
+C:\Personal File\VB.NET Program\Book Class\Book Class\bin\Debug\net8.0\Book Class.runtimeconfig.json
+C:\Personal File\VB.NET Program\Book Class\Book Class\bin\Debug\net8.0\Book Class.dll
+C:\Personal File\VB.NET Program\Book Class\Book Class\bin\Debug\net8.0\Book Class.pdb
+C:\Personal File\VB.NET Program\Book Class\Book Class\obj\Debug\net8.0\Book Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal File\VB.NET Program\Book Class\Book Class\obj\Debug\net8.0\Book Class.AssemblyInfoInputs.cache
+C:\Personal File\VB.NET Program\Book Class\Book Class\obj\Debug\net8.0\Book Class.AssemblyInfo.vb
+C:\Personal File\VB.NET Program\Book Class\Book Class\obj\Debug\net8.0\Book Class.vbproj.CoreCompileInputs.cache
+C:\Personal File\VB.NET Program\Book Class\Book Class\obj\Debug\net8.0\Book Class.dll
+C:\Personal File\VB.NET Program\Book Class\Book Class\obj\Debug\net8.0\refint\Book Class.dll
+C:\Personal File\VB.NET Program\Book Class\Book Class\obj\Debug\net8.0\Book Class.pdb
+C:\Personal File\VB.NET Program\Book Class\Book Class\obj\Debug\net8.0\Book Class.genruntimeconfig.cache
+C:\Personal File\VB.NET Program\Book Class\Book Class\obj\Debug\net8.0\ref\Book Class.dll

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Personal File\\VB.NET Program\\Button Colour property\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91145B4F-1F73-48B4-A555-6CE01B62C00D}|Button Colour property\\Button Colour property.vbproj|c:\\personal file\\vb.net program\\button colour property\\button colour property\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{91145B4F-1F73-48B4-A555-6CE01B62C00D}|Button Colour property\\Button Colour property.vbproj|solutionrelative:button colour property\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91145B4F-1F73-48B4-A555-6CE01B62C00D}|Button Colour property\\Button Colour property.vbproj|c:\\personal file\\vb.net program\\button colour property\\button colour property\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{91145B4F-1F73-48B4-A555-6CE01B62C00D}|Button Colour property\\Button Colour property.vbproj|solutionrelative:button colour property\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Personal File\\VB.NET Program\\Button Colour property\\Button Colour property\\Form1.vb",
+              "RelativeDocumentMoniker": "Button Colour property\\Form1.vb",
+              "ToolTip": "C:\\Personal File\\VB.NET Program\\Button Colour property\\Button Colour property\\Form1.vb",
+              "RelativeToolTip": "Button Colour property\\Form1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-12T11:46:33.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Personal File\\VB.NET Program\\Button Colour property\\Button Colour property\\Form1.vb",
+              "RelativeDocumentMoniker": "Button Colour property\\Form1.vb",
+              "ToolTip": "C:\\Personal File\\VB.NET Program\\Button Colour property\\Button Colour property\\Form1.vb [Design]",
+              "RelativeToolTip": "Button Colour property\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-12T11:45:31.901Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

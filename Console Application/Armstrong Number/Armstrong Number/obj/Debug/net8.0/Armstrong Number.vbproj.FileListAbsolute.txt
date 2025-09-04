@@ -1,0 +1,14 @@
+C:\Personal File\VB.NET Program\Armstrong Number\Armstrong Number\bin\Debug\net8.0\Armstrong Number.exe
+C:\Personal File\VB.NET Program\Armstrong Number\Armstrong Number\bin\Debug\net8.0\Armstrong Number.deps.json
+C:\Personal File\VB.NET Program\Armstrong Number\Armstrong Number\bin\Debug\net8.0\Armstrong Number.runtimeconfig.json
+C:\Personal File\VB.NET Program\Armstrong Number\Armstrong Number\bin\Debug\net8.0\Armstrong Number.dll
+C:\Personal File\VB.NET Program\Armstrong Number\Armstrong Number\bin\Debug\net8.0\Armstrong Number.pdb
+C:\Personal File\VB.NET Program\Armstrong Number\Armstrong Number\obj\Debug\net8.0\Armstrong Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal File\VB.NET Program\Armstrong Number\Armstrong Number\obj\Debug\net8.0\Armstrong Number.AssemblyInfoInputs.cache
+C:\Personal File\VB.NET Program\Armstrong Number\Armstrong Number\obj\Debug\net8.0\Armstrong Number.AssemblyInfo.vb
+C:\Personal File\VB.NET Program\Armstrong Number\Armstrong Number\obj\Debug\net8.0\Armstrong Number.vbproj.CoreCompileInputs.cache
+C:\Personal File\VB.NET Program\Armstrong Number\Armstrong Number\obj\Debug\net8.0\Armstrong Number.dll
+C:\Personal File\VB.NET Program\Armstrong Number\Armstrong Number\obj\Debug\net8.0\refint\Armstrong Number.dll
+C:\Personal File\VB.NET Program\Armstrong Number\Armstrong Number\obj\Debug\net8.0\Armstrong Number.pdb
+C:\Personal File\VB.NET Program\Armstrong Number\Armstrong Number\obj\Debug\net8.0\Armstrong Number.genruntimeconfig.cache
+C:\Personal File\VB.NET Program\Armstrong Number\Armstrong Number\obj\Debug\net8.0\ref\Armstrong Number.dll

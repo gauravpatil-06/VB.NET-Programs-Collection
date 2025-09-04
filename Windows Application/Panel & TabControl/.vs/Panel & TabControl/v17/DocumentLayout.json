@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Personal File\\VB.NET Program\\Windows Application\\Panel \u0026 TabControl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6232EC9D-C221-4F29-BFDF-DD7AEEEAA4AC}|Panel \u0026 TabControl\\Panel \u0026 TabControl.vbproj|c:\\personal file\\vb.net program\\windows application\\panel \u0026 tabcontrol\\panel \u0026 tabcontrol\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{6232EC9D-C221-4F29-BFDF-DD7AEEEAA4AC}|Panel \u0026 TabControl\\Panel \u0026 TabControl.vbproj|solutionrelative:panel \u0026 tabcontrol\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6232EC9D-C221-4F29-BFDF-DD7AEEEAA4AC}|Panel \u0026 TabControl\\Panel \u0026 TabControl.vbproj|c:\\personal file\\vb.net program\\windows application\\panel \u0026 tabcontrol\\panel \u0026 tabcontrol\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{6232EC9D-C221-4F29-BFDF-DD7AEEEAA4AC}|Panel \u0026 TabControl\\Panel \u0026 TabControl.vbproj|solutionrelative:panel \u0026 tabcontrol\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Personal File\\VB.NET Program\\Windows Application\\Panel \u0026 TabControl\\Panel \u0026 TabControl\\Form1.vb",
+              "RelativeDocumentMoniker": "Panel \u0026 TabControl\\Form1.vb",
+              "ToolTip": "C:\\Personal File\\VB.NET Program\\Windows Application\\Panel \u0026 TabControl\\Panel \u0026 TabControl\\Form1.vb [Design]",
+              "RelativeToolTip": "Panel \u0026 TabControl\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-13T05:23:35.65Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Personal File\\VB.NET Program\\Windows Application\\Panel \u0026 TabControl\\Panel \u0026 TabControl\\Form1.vb",
+              "RelativeDocumentMoniker": "Panel \u0026 TabControl\\Form1.vb",
+              "ToolTip": "C:\\Personal File\\VB.NET Program\\Windows Application\\Panel \u0026 TabControl\\Panel \u0026 TabControl\\Form1.vb",
+              "RelativeToolTip": "Panel \u0026 TabControl\\Form1.vb",
+              "ViewState": "AQIAADcAAAAAAAAAAAAawE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-13T05:28:58.828Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

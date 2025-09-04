@@ -1,0 +1,14 @@
+C:\Personal File\VB.NET Program\Numbers are Equal or Not\Numbers are Equal or Not\bin\Debug\net8.0\Numbers are Equal or Not.exe
+C:\Personal File\VB.NET Program\Numbers are Equal or Not\Numbers are Equal or Not\bin\Debug\net8.0\Numbers are Equal or Not.deps.json
+C:\Personal File\VB.NET Program\Numbers are Equal or Not\Numbers are Equal or Not\bin\Debug\net8.0\Numbers are Equal or Not.runtimeconfig.json
+C:\Personal File\VB.NET Program\Numbers are Equal or Not\Numbers are Equal or Not\bin\Debug\net8.0\Numbers are Equal or Not.dll
+C:\Personal File\VB.NET Program\Numbers are Equal or Not\Numbers are Equal or Not\bin\Debug\net8.0\Numbers are Equal or Not.pdb
+C:\Personal File\VB.NET Program\Numbers are Equal or Not\Numbers are Equal or Not\obj\Debug\net8.0\Numbers are Equal or Not.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal File\VB.NET Program\Numbers are Equal or Not\Numbers are Equal or Not\obj\Debug\net8.0\Numbers are Equal or Not.AssemblyInfoInputs.cache
+C:\Personal File\VB.NET Program\Numbers are Equal or Not\Numbers are Equal or Not\obj\Debug\net8.0\Numbers are Equal or Not.AssemblyInfo.vb
+C:\Personal File\VB.NET Program\Numbers are Equal or Not\Numbers are Equal or Not\obj\Debug\net8.0\Numbers are Equal or Not.vbproj.CoreCompileInputs.cache
+C:\Personal File\VB.NET Program\Numbers are Equal or Not\Numbers are Equal or Not\obj\Debug\net8.0\Numbers are Equal or Not.dll
+C:\Personal File\VB.NET Program\Numbers are Equal or Not\Numbers are Equal or Not\obj\Debug\net8.0\refint\Numbers are Equal or Not.dll
+C:\Personal File\VB.NET Program\Numbers are Equal or Not\Numbers are Equal or Not\obj\Debug\net8.0\Numbers are Equal or Not.pdb
+C:\Personal File\VB.NET Program\Numbers are Equal or Not\Numbers are Equal or Not\obj\Debug\net8.0\Numbers are Equal or Not.genruntimeconfig.cache
+C:\Personal File\VB.NET Program\Numbers are Equal or Not\Numbers are Equal or Not\obj\Debug\net8.0\ref\Numbers are Equal or Not.dll

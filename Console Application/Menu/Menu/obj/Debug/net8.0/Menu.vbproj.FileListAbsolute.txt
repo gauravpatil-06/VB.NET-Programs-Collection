@@ -1,0 +1,14 @@
+C:\Personal File\VB.NET Program\Menu\Menu\bin\Debug\net8.0\Menu.exe
+C:\Personal File\VB.NET Program\Menu\Menu\bin\Debug\net8.0\Menu.deps.json
+C:\Personal File\VB.NET Program\Menu\Menu\bin\Debug\net8.0\Menu.runtimeconfig.json
+C:\Personal File\VB.NET Program\Menu\Menu\bin\Debug\net8.0\Menu.dll
+C:\Personal File\VB.NET Program\Menu\Menu\bin\Debug\net8.0\Menu.pdb
+C:\Personal File\VB.NET Program\Menu\Menu\obj\Debug\net8.0\Menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal File\VB.NET Program\Menu\Menu\obj\Debug\net8.0\Menu.AssemblyInfoInputs.cache
+C:\Personal File\VB.NET Program\Menu\Menu\obj\Debug\net8.0\Menu.AssemblyInfo.vb
+C:\Personal File\VB.NET Program\Menu\Menu\obj\Debug\net8.0\Menu.vbproj.CoreCompileInputs.cache
+C:\Personal File\VB.NET Program\Menu\Menu\obj\Debug\net8.0\Menu.dll
+C:\Personal File\VB.NET Program\Menu\Menu\obj\Debug\net8.0\refint\Menu.dll
+C:\Personal File\VB.NET Program\Menu\Menu\obj\Debug\net8.0\Menu.pdb
+C:\Personal File\VB.NET Program\Menu\Menu\obj\Debug\net8.0\Menu.genruntimeconfig.cache
+C:\Personal File\VB.NET Program\Menu\Menu\obj\Debug\net8.0\ref\Menu.dll

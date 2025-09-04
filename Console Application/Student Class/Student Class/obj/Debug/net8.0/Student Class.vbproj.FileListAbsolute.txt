@@ -1,0 +1,14 @@
+C:\Personal File\VB.NET Program\Student Class\Student Class\bin\Debug\net8.0\Student Class.exe
+C:\Personal File\VB.NET Program\Student Class\Student Class\bin\Debug\net8.0\Student Class.deps.json
+C:\Personal File\VB.NET Program\Student Class\Student Class\bin\Debug\net8.0\Student Class.runtimeconfig.json
+C:\Personal File\VB.NET Program\Student Class\Student Class\bin\Debug\net8.0\Student Class.dll
+C:\Personal File\VB.NET Program\Student Class\Student Class\bin\Debug\net8.0\Student Class.pdb
+C:\Personal File\VB.NET Program\Student Class\Student Class\obj\Debug\net8.0\Student Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal File\VB.NET Program\Student Class\Student Class\obj\Debug\net8.0\Student Class.AssemblyInfoInputs.cache
+C:\Personal File\VB.NET Program\Student Class\Student Class\obj\Debug\net8.0\Student Class.AssemblyInfo.vb
+C:\Personal File\VB.NET Program\Student Class\Student Class\obj\Debug\net8.0\Student Class.vbproj.CoreCompileInputs.cache
+C:\Personal File\VB.NET Program\Student Class\Student Class\obj\Debug\net8.0\Student Class.dll
+C:\Personal File\VB.NET Program\Student Class\Student Class\obj\Debug\net8.0\refint\Student Class.dll
+C:\Personal File\VB.NET Program\Student Class\Student Class\obj\Debug\net8.0\Student Class.pdb
+C:\Personal File\VB.NET Program\Student Class\Student Class\obj\Debug\net8.0\Student Class.genruntimeconfig.cache
+C:\Personal File\VB.NET Program\Student Class\Student Class\obj\Debug\net8.0\ref\Student Class.dll
