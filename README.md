@@ -4,15 +4,11 @@
 
 🔧 𝗞𝗲𝘆 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀:
 
-• 🖥 𝗖𝗼𝗻𝘀𝗼𝗹𝗲 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝘀 – Basics, input/output, loops, arrays, strings, math operations
-
-• 🪟 𝗪𝗶𝗻𝗱𝗼𝘄𝘀 𝗙𝗼𝗿𝗺𝘀 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀 – Login forms, calculators, ordering and billing apps
-
-• 💾 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲 𝗖𝗼𝗻𝗻𝗲𝗰𝘁𝗶𝘃𝗶𝘁𝘆 – Access / SQL integration with forms
-
-• 📂 𝗙𝗶𝗹𝗲 𝗛𝗮𝗻𝗱𝗹𝗶𝗻𝗴 – Read/Write data from files in VB.Net
-
-• 🍟 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 – 𝗙𝗮𝘀𝘁 𝗙𝗼𝗼𝗱 𝗢𝗿𝗱𝗲𝗿𝗶𝗻𝗴 𝗦𝘆𝘀𝘁𝗲𝗺 – Complete ordering, billing, and feedback system using VB.Net
+• 🖥 𝗖𝗼𝗻𝘀𝗼𝗹𝗲 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝘀 – Basics, input/output, loops, arrays, strings, math operations <br>
+• 🪟 𝗪𝗶𝗻𝗱𝗼𝘄𝘀 𝗙𝗼𝗿𝗺𝘀 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀 – Login forms, calculators, ordering and billing apps <br>
+• 💾 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲 𝗖𝗼𝗻𝗻𝗲𝗰𝘁𝗶𝘃𝗶𝘁𝘆 – Access / SQL integration with forms <br>
+• 📂 𝗙𝗶𝗹𝗲 𝗛𝗮𝗻𝗱𝗹𝗶𝗻𝗴 – Read/Write data from files in VB.Net <br>
+• 🍟 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 – 𝗙𝗮𝘀𝘁 𝗙𝗼𝗼𝗱 𝗢𝗿𝗱𝗲𝗿𝗶𝗻𝗴 𝗦𝘆𝘀𝘁𝗲𝗺 – Complete ordering, billing, and feedback system using VB.Net <br>
 
 🎯 𝗜𝗱𝗲𝗮𝗹 𝗙𝗼𝗿:
 
